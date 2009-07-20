@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{025511D7-DCE4-44F9-8EEF-CDFC9D114263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerlessActions", "ControllerlessActions\ControllerlessActions.csproj", "{DED82999-3FEE-450F-A906-8E7F459AB240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{159C5A3C-2A60-4662-B14F-36D9BB85F9A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025511D7-DCE4-44F9-8EEF-CDFC9D114263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025511D7-DCE4-44F9-8EEF-CDFC9D114263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025511D7-DCE4-44F9-8EEF-CDFC9D114263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025511D7-DCE4-44F9-8EEF-CDFC9D114263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED82999-3FEE-450F-A906-8E7F459AB240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED82999-3FEE-450F-A906-8E7F459AB240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED82999-3FEE-450F-A906-8E7F459AB240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED82999-3FEE-450F-A906-8E7F459AB240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159C5A3C-2A60-4662-B14F-36D9BB85F9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159C5A3C-2A60-4662-B14F-36D9BB85F9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159C5A3C-2A60-4662-B14F-36D9BB85F9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159C5A3C-2A60-4662-B14F-36D9BB85F9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
